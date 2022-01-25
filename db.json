@@ -1,0 +1,40 @@
+{
+    "login" : [
+        {
+        "payload": {
+            "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlX2lkIjoiYzM3YjliNzFmNDg0NGViM2IzNTkzZjQyNzIzZTMxZTkiLCJyb2xlX3R5cGUiOiJhZG1pbiIsImlhdCI6MTY0MzA4NjEzMCwiZXhwIjoxNjQzMTcyNTMwfQ.qjYURv4HKPJEqLeUM0Q8vy1Sn9-0FGr0eVZG-QJxFZE",
+            "refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlX2lkIjoiYzM3YjliNzFmNDg0NGViM2IzNTkzZjQyNzIzZTMxZTkiLCJyb2xlX3R5cGUiOiJhZG1pbiIsImlhdCI6MTY0MzA4NjEzMCwiZXhwIjoxNjQzOTUwMTMwfQ.kPv-XySXSUIZpQx4b-ugntGnwsSYn6yOPYlGxC-kKSY",
+            "user": {
+                "uuid": "c37b9b71-f484-4eb3-b359-3f42723e31e9",
+                "name": "Piyush",
+                "phone_number": "9560702848",
+                "email": "piyush@yelow.club",
+                "type": "admin"
+            }
+        },
+        "message": "otp verified successfully",
+        "status": true
+        },
+
+        {
+            "payload": {
+                "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlX2lkIjoiYzM3YjliNzFmNDg0NGViM2IzNTkzZjQyNzIzZTMxZTkiLCJyb2xlX3R5cGUiOiJhZG1pbiIsImlhdCI6MTY0MzA4NjEzMCwiZXhwIjoxNjQzMTcyNTMwfQ.qjYURv4HKPJEqLeUM0Q8vy1Sn9-0FGr0eVZG-QJxFZE",
+                "refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlX2lkIjoiYzM3YjliNzFmNDg0NGViM2IzNTkzZjQyNzIzZTMxZTkiLCJyb2xlX3R5cGUiOiJhZG1pbiIsImlhdCI6MTY0MzA4NjEzMCwiZXhwIjoxNjQzOTUwMTMwfQ.kPv-XySXSUIZpQx4b-ugntGnwsSYn6yOPYlGxC-kKSY",
+                "user": {
+                    "uuid": "c37b9b71-f484-4eb3-b359-3f42723e31e9",
+                    "name": "Piyush",
+                    "phone_number": "9560702848",
+                    "email": "piyush@yelow.club",
+                    "type": "executive"
+                }
+            },
+            "message": "otp verified successfully",
+            "status": true
+            }
+
+
+
+
+    ]
+}
+
